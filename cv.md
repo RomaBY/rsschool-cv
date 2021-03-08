@@ -30,3 +30,21 @@ A motivated student of RS School's "JavaScript/Front-end 2021Q1" course, who wan
     * __Discord:__ RomaBY#6797
     * __GitHub:__ [RomaBY](https://github.com/RomaBY)
     * __Skype:__ r.o.m.a.s.h.k.a_5
+
+### **Education:**
+
+---
+
+- RS School 2021Q1
+
+### **Conferences and Training:**
+
+---
+
+- Click 2020
+- Client UpLifting Service 2019
+- Master & Robots 2018
+
+### **Level of English:** C1
+
+---
